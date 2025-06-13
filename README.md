@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav Verma</h1>
 <h3 align="center">A passionate developer from India</h3>
-<h3 align="center">Currently a Sophomore at Manipal University Jaipur</h3>
+<h3 align="center">Currently a Senior at Manipal University Jaipur</h3>
 
 
 
